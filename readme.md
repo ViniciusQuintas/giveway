@@ -1,5 +1,5 @@
 # Sorteador
-Este exemplo de projeto foi inspirado em uma playlist sobre Clean Architecture do canal [Otávio Lemos](https://www.youtube.com/@otaviolemos). O projeto é uma aplicação simples que implementa a Clean Architecture em TypeScript. A aplicação consiste em um sistema que seleciona aleatoriamente participantes de um sorteio a partir de uma lista carregada de um arquivo CSV. O objetivo é desse projeto é colocar em prática a Clean Architecture e entender como ela pode ser aplicada em um projeto de software para facilitar a manutenção e a escalabilidade.
+O projeto é uma aplicação simples que implementa a Clean Architecture em TypeScript. A aplicação consiste em um sistema que seleciona aleatoriamente participantes de um sorteio a partir de uma lista carregada de um arquivo CSV. O objetivo é desse projeto é colocar em prática a Clean Architecture e entender como ela pode ser aplicada em um projeto de software para facilitar a manutenção e a escalabilidade.
 
 # Funcionalidades
 - **Leitura de Participantes:** Os participantes são lidos de um arquivo CSV utilizando o repositório CsvParticipantRepository.
